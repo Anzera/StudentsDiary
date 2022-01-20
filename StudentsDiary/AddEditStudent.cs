@@ -97,7 +97,7 @@ namespace StudentsDiary
                 EnglishLang = tbEnglishLang.Text,
                 Technology = tbTechnology.Text,
                 ExtraWork = cbExtraWork.Checked,
-                GroupId = cboGroupId.SelectedItem.ToString()
+                GroupId = cboGroupId.Text      
             };
 
             students.Add(student);

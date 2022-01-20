@@ -255,7 +255,7 @@ namespace StudentsDiary
             this.cbExtraWork.AutoSize = true;
             this.cbExtraWork.Location = new System.Drawing.Point(179, 330);
             this.cbExtraWork.Name = "cbExtraWork";
-            this.cbExtraWork.Size = new System.Drawing.Size(23, 21);
+            this.cbExtraWork.Size = new System.Drawing.Size(18, 17);
             this.cbExtraWork.TabIndex = 22;
             this.cbExtraWork.UseVisualStyleBackColor = true;
             // 
@@ -281,7 +281,7 @@ namespace StudentsDiary
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(359, 462);
+            this.ClientSize = new System.Drawing.Size(449, 578);
             this.Controls.Add(this.cboGroupId);
             this.Controls.Add(this.cbExtraWork);
             this.Controls.Add(this.lbGroupId);
