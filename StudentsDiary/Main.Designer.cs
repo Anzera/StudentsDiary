@@ -121,6 +121,7 @@ namespace StudentsDiary
             "3A",
             "3B",
             "3C"});
+            this.cboFilter.SelectedItem = "Wszyscy";
             this.cboFilter.Location = new System.Drawing.Point(290, 15);
             this.cboFilter.Name = "cboFilter";
             this.cboFilter.Size = new System.Drawing.Size(146, 24);
